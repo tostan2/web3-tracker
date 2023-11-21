@@ -53,3 +53,4 @@ web3-tracker: Update changelog 2023-11-18
 web3-tracker: Update changelog 2023-11-19
 web3-tracker: Update changelog 2023-11-20
 web3-tracker: Update changelog 2023-11-21
+web3-tracker: Update changelog 2023-11-22
