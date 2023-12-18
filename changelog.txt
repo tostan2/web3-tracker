@@ -80,3 +80,4 @@ web3-tracker: Update changelog 2023-12-15
 web3-tracker: Update changelog 2023-12-16
 web3-tracker: Update changelog 2023-12-17
 web3-tracker: Update changelog 2023-12-18
+web3-tracker: Update changelog 2023-12-19
