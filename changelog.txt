@@ -90,3 +90,4 @@ web3-tracker: Update changelog 2023-12-25
 web3-tracker: Update changelog 2023-12-26
 web3-tracker: Update changelog 2023-12-27
 web3-tracker: Update changelog 2023-12-28
+web3-tracker: Update changelog 2023-12-29
